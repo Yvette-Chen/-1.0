@@ -1,4 +1,4 @@
-`#include "Allfunction.h"
+#include "Allfunction.h"
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -83,4 +83,3 @@ int id_delete(int id, int filelength, struct Student * stu) {    // 删除一个
         return 1;
     }
 }
-`
