@@ -1,4 +1,4 @@
-`#include "Allfunction.h"
+#include "Allfunction.h"
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -30,4 +30,3 @@ void append_record() {  // 添加成绩的函数
     }
     fclose(fp);
 }
-`
